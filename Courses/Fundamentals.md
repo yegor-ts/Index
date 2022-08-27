@@ -72,10 +72,10 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Recursion
 - [Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas) ✔️
   - Примеры кода: https://github.com/HowProgrammingWorks/Iteration
-- [Антипаттерны процедурного программирования](https://youtu.be/cTv7V22mkwE) 🟨
+- [Антипаттерны процедурного программирования](https://youtu.be/cTv7V22mkwE) ✔️
   - Примеры кода: https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/02-Procedural
-- Семинар: [Ответы на вопросы по курсу "Основы программирования"](https://youtu.be/TY6nDW7aYys) 🟨
-- [Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg) 🟨
+- Семинар: [Ответы на вопросы по курсу "Основы программирования"](https://youtu.be/TY6nDW7aYys) ⬜
+- [Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg) ✔️
   - Таймеры: https://github.com/HowProgrammingWorks/Timers
   - EventEmitter: https://github.com/HowProgrammingWorks/EventEmitter
   - События: https://github.com/metarhia/common/blob/master/lib/events.js
