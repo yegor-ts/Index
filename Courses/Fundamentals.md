@@ -82,11 +82,11 @@
 - Семинар: [Выполнение лабораторных работ по курсу](https://youtu.be/ikUOyFPzdJw) 👁️‍🗨️ check it real quick
 - [Массивы в JavaScript: методы Array](https://youtu.be/D1kfYBkX9FE) ⬜
   - Примеры кода: https://github.com/HowProgrammingWorks/Arrays
-- [Коллекции, множества, хеш таблицы в JavaScript](https://youtu.be/hN0wsq5LNOc) 🟨
+- [Коллекции, множества, хеш таблицы в JavaScript](https://youtu.be/hN0wsq5LNOc) ✔️
   - Коллекции: https://github.com/HowProgrammingWorks/Collections
   - Хеш таблицы: https://github.com/HowProgrammingWorks/Map
   - Множества: https://github.com/HowProgrammingWorks/Set
-- [Code Review: как это и зачем](https://youtu.be/EKL6NiIQ6ZU) 🟨
+- [Code Review: как это и зачем](https://youtu.be/EKL6NiIQ6ZU) 👁️‍🗨️ check it later
   - Примеры: https://github.com/HowProgrammingWorks/CodeReview
   - Семинар: [Code Review, ответы на вопросы](https://youtu.be/AgH4OAKbmkM)
 - [Структуры данных: списки, стек, очередь, дэк в JavaScript](https://youtu.be/9KvA4hDDSjk) 🟨
@@ -94,7 +94,7 @@
   - Очереди: https://github.com/HowProgrammingWorks/Dequeue
 - [Сериализация и десериализация в JavaScript и Node.js](https://youtu.be/GtKPniOEzh8) 👁️‍🗨 check it real quick
   - Примеры кода: https://github.com/HowProgrammingWorks/Serialization
-- [Рефакторинг: причины, цели, техники и процесс](https://youtu.be/z73wmpdweQ4) 🟨
+- [Рефакторинг: причины, цели, техники и процесс](https://youtu.be/z73wmpdweQ4) 👁️‍🗨️ check it later
   - Примеры кода: https://github.com/HowProgrammingWorks/Refactoring
   - Пример проекта: https://github.com/tshemsedinov/node-mysql-utilities
 - Семинар: [Выбор направления в программировании](https://youtu.be/1gL627DQF4A)
